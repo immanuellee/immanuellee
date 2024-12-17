@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Complete Threat Detection & Response Lab (SIEM + Endpoint Security Integration)</b>
-  - [SIEM + Endpoint Security Integration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Complete Threat Detection & Response Lab](https://github.com/immanuellee/Complete-Threat-Detection-Response-Lab-SIEM-Endpoint-Security-Integration-/tree/main)
 
 <h2>📺 Certifications</h2>
 
