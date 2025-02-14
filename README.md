@@ -6,6 +6,8 @@
 
 - <b>Complete Threat Detection & Response Lab (SIEM + Endpoint Security Integration)</b>
   - [Complete Threat Detection & Response Lab](https://github.com/immanuellee/Complete-Threat-Detection-Response-Lab-SIEM-Endpoint-Security-Integration-/tree/main)
+<b>Complete Honeypot-Project-Using-Cowrie-ELK-Stack</b>
+  - [Complete Honeypot-Project-Using-Cowrie-ELK-Stack]([https://github.com/immanuellee/Complete-Threat-Detection-Response-Lab-SIEM-Endpoint-Security-Integration-/tree/main](https://github.com/immanuellee/Honeypot-Project-Using-Cowrie-ELK-Stack))
 
 <h2>📺 Certifications</h2>
 
