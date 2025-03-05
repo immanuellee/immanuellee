@@ -13,6 +13,8 @@
 - <b>Complete Phishing-Attack-Simulation-with-Gophish</b>
   - [Complete Phishing-Attack-Simulation-with-Gophish](https://github.com/immanuellee/Phishing-Attack-Simulation-with-Gophish)
 
+- <b>Automated Attendance Management System (AAMS) - Security Portion</b>
+  - [Complete Automated Attendance Management System (AAMS) - Assigned Security Portion (Group Project)](https://github.com/LemmarWilson/AAMS-Backend)
 <h2>📺 Certifications</h2>
 
 - [AWS Academy Graduate - AWS Academy Cloud Security Foundations](https://www.credly.com/badges/bb9d0b57-7853-4222-bbf9-07b7caef51b6/linked_in_profile)
