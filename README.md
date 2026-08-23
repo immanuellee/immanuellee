@@ -1,28 +1,44 @@
-<h1>Hi, I'm Immanuall! </h1>
-                       
+# Hi, I'm Immanuall 👋
 
+I'm a graduate student at **Carnegie Mellon University** studying Information Security with hands-on experience across **application security, DevSecOps, cloud security, and security automation**.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I'm interested in building security into software and cloud infrastructure through automation, secure development practices, vulnerability management, and detection & response.
 
-- <b>Complete Threat Detection & Response Lab (SIEM + Endpoint Security Integration)</b>
-  - [Complete Threat Detection & Response Lab](https://github.com/immanuellee/Complete-Threat-Detection-Response-Lab-SIEM-Endpoint-Security-Integration-/tree/main)
+## 🔐 Currently
 
-- <b>Complete Honeypot-Project-Using-Cowrie-ELK-Stack</b>
-  - [Complete Honeypot-Project-Using-Cowrie-ELK-Stack](https://github.com/immanuellee/Honeypot-Project-Using-Cowrie-ELK-Stack)
- 
-- <b>Complete Phishing-Attack-Simulation-with-Gophish</b>
-  - [Complete Phishing-Attack-Simulation-with-Gophish](https://github.com/immanuellee/Phishing-Attack-Simulation-with-Gophish)
+* ☁️ Building an **AWS Cloud Detection & Response Platform** using GuardDuty, IAM Access Analyzer, EventBridge, Lambda, and Terraform
+* 🔎 Exploring **application security and DevSecOps automation**
+* 🛡️ Developing hands-on experience with **cloud detection, vulnerability management, and security engineering**
+* 📚 Pursuing my **M.S. in Information Technology – Information Security** at Carnegie Mellon University
 
-- <b>Automated Attendance Management System (AAMS) - Security Portion</b>
-  - [Complete Automated Attendance Management System (AAMS) - Assigned Security Portion (Group Project)]
-<h2>📺 Certifications</h2>
+## 🛠️ Technologies
 
-- [AWS Academy Graduate - AWS Academy Cloud Security Foundations](https://www.credly.com/badges/bb9d0b57-7853-4222-bbf9-07b7caef51b6/linked_in_profile)
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/4ac8b677-27ac-4c61-b2d8-6372724b47bd)
+**Security:** SAST · DAST · OWASP Top 10 · Threat Modeling · Secure Code Review · Vulnerability Management · Secure SDLC
 
-<h2> 🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/immanuall" target="_blank">
-  <img align="left" alt="Immanuall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+**Cloud & DevSecOps:** AWS · Azure · Terraform · Kubernetes · CI/CD · Azure DevOps
 
-[linkedin]: www.linkedin.com/in/immanuall
+**Tools:** SonarQube · Grafana · Burp Suite · Tenable Nessus · GitGuardian
+
+**Languages:** Python · C# · SQL · YAML
+
+## 🚀 Featured Projects
+
+### ☁️ AWS Cloud Detection & Response Platform
+
+Event-driven AWS security platform designed to detect, investigate, and automatically respond to high-risk cloud security findings using **GuardDuty, IAM Access Analyzer, EventBridge, Lambda, and Terraform**.
+
+### 🔎 Threat Detection & Response Lab
+
+Security environment for exploring **SIEM, endpoint monitoring, network detection, and incident investigation**.
+
+[View Project](https://github.com/immanuellee/Complete-Threat-Detection-Response-Lab-SIEM-Endpoint-Security-Integration-)
+
+### 🍯 Cowrie Honeypot
+
+Honeypot environment built with **Cowrie and the ELK Stack** to collect, analyze, and visualize malicious activity.
+
+[View Project](https://github.com/immanuellee/Honeypot-Project-Using-Cowrie-ELK-Stack)
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/leeq)
