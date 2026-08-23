@@ -7,8 +7,7 @@ I'm interested in building security into software and cloud infrastructure throu
 ## 🔐 Currently
 
 * ☁️ Building an **AWS Cloud Detection & Response Platform** using GuardDuty, IAM Access Analyzer, EventBridge, Lambda, and Terraform
-* 🔎 Exploring **application security and DevSecOps automation**
-* 🛡️ Developing hands-on experience with **cloud detection, vulnerability management, and security engineering**
+* 🔎 Exploring **application security, DevSecOps automation, and cloud detection & response**
 * 📚 Pursuing my **M.S. in Information Technology – Information Security** at Carnegie Mellon University
 
 ## 🛠️ Technologies
@@ -26,6 +25,8 @@ I'm interested in building security into software and cloud infrastructure throu
 ### ☁️ AWS Cloud Detection & Response Platform
 
 Event-driven AWS security platform designed to detect, investigate, and automatically respond to high-risk cloud security findings using **GuardDuty, IAM Access Analyzer, EventBridge, Lambda, and Terraform**.
+
+<!-- Add project link once the repository is ready -->
 
 ### 🔎 Threat Detection & Response Lab
 
